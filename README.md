@@ -1,4 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jainam Dudhediya</h1>
+<!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jainam Dudhediya</h1> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Jainam%20Dudhediya" width="100%">
+</p>
 <h3 align="center">AI & Data Science Student | Building Agentic AI Systems | GenAI • ML • Deep Learning</h3>
 
 <p align="center">
