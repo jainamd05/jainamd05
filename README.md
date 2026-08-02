@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<!-- <img src="none" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
 - 🎓 Artificial Intelligence and Data Science Engineering Student
