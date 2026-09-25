@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jainam Dudhediya</h1> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Jainam%20Dudhediya" width="100%">
 </p>
@@ -9,8 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=jainamd05&label=Profile%20views&color=00FFFF&style=flat-square" alt="jainamd05's profile views" />
   </a>
 </p>
-
-<!-- <img src="none" alt="Banner" width="100%" /> -->
 
 ## 📌 About Me
 - 🎓 Artificial Intelligence and Data Science Engineering Student
